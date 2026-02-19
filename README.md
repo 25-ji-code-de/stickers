@@ -71,11 +71,11 @@ stickers/
 
 ---
 
-**声明**：本项目受 *Project SEKAI COLORFUL STAGE! feat. Hatsune Miku* 启发。
+**声明**：本项目是非官方、非商业性质的粉丝作品，与 SEGA、Colorful Palette、Crypton Future Media 或任何其他与《Project SEKAI》相关的版权持有方无任何官方关联。
 
-本项目是非官方、非商业性质的粉丝作品，与 SEGA、Colorful Palette、Crypton Future Media 或任何其他与《Project SEKAI》相关的版权持有方无任何官方关联。
+本仓库中的贴纸图像素材提取自《Project SEKAI COLORFUL STAGE! feat. Hatsune Miku》游戏数据，所有游戏相关素材（包括但不限于角色、音乐、图像）的版权归其各自的版权持有方所有。本项目不对这些素材主张任何权利。
 
-所有游戏相关素材（包括但不限于角色、音乐、图像）的版权归其各自的版权持有方所有。
+如权利方要求删除，我们将立即配合。
 
 ## 🤝 贡献
 
@@ -93,7 +93,7 @@ stickers/
 
 本项目采用 MIT 许可证 - 详见 [LICENSE](./LICENSE) 文件。
 
-⚠️ **重要提示**：MIT 许可证仅适用于本项目的原创代码。游戏相关素材（贴纸图像等）的版权归 SEGA、Colorful Palette、Crypton Future Media 等原版权方所有。
+⚠️ **重要提示**：MIT 许可证仅适用于本项目的原创代码。游戏相关素材（贴纸图像等）的版权归 SEGA、Colorful Palette、Crypton Future Media 等原版权方所有，不在此许可范围内。
 
 ## 📧 联系方式
 
