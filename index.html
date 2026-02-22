@@ -77,11 +77,33 @@
             border-radius: 4px;
             margin-top: 5px;
         }
+
+        /* 链接按钮样式 */
+        .generator-link {
+            color: #333;
+            text-decoration: none;
+            padding: 10px 20px;
+            border: 2px solid #e5e5e5;
+            border-radius: 8px;
+            display: inline-block;
+            transition: all 0.2s ease;
+        }
+
+        .generator-link:hover {
+            border-color: #333;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
     </style>
 </head>
 <body>
 
 <h1>Stickers 图鉴</h1>
+<div style="text-align: center; margin-bottom: 20px;">
+    <a href="https://st.nightcord.de5.net/" target="_blank" rel="noopener noreferrer" class="generator-link">
+        🎨 前往贴纸生成器
+    </a>
+</div>
 <div id="status">正在加载数据...</div>
 <div id="stickersContainer"></div>
 
